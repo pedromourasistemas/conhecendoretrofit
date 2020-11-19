@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Conhecendo o Retrofit2</string>
+
+    <string name="txt_label_cep">Informe o CEP:</string>
+    <string name="txt_edt_cep_hint">Ex: 38100-560</string>
+    <string name="txt_btn_search_cep">Buscar Endereço</string>
+</resources>
