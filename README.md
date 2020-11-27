@@ -1,4 +1,4 @@
-# Conhecendo a lib Retrofit2
+# Getting start with lib Retrofit2
 
-Este projeto tem como objetivo dar a introdução a lib do retrofit2, usando como exemplo a busca de um cep informado pelo usuário.
-Usamos também uma máscara para que o layout ficasse mais agradável.
+This project aims to give the introduction to retrofit2 lib, using as an example the search for a zip code registered by the user.
+We also used a mask to make the layout more pleasant.
